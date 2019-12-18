@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGP", "PGP\PGP.csproj", "{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}.Debug|x86.ActiveCfg = Debug|x86
+		{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}.Debug|x86.Build.0 = Debug|x86
+		{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}.Release|x86.ActiveCfg = Release|x86
+		{DDC6B74F-1D04-4E97-B5BD-B09C76935CCE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F66ED8-00FA-4C2B-8F56-08CDDC793AF4}
+	EndGlobalSection
+EndGlobal
